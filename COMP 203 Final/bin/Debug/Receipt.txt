@@ -1,0 +1,12 @@
+User: Stark, Tony
+Account Number: 123456
+
+
+Savings Balance:  900.0000
+Checking Balance: 800.0000
+Loan Balance:     700.0000
+
+
+Savings Balance:  900.0000
+Checking Balance: 760.0000
+Loan Balance:     699.0000
