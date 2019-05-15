@@ -1,0 +1,7 @@
+For a final at Vincennes University, I created a mock ATM program using C# and SQL. The ATM has a database of bank accounts that the user 
+can log into by providing a bank account ID and a PIN. When logged in they canwithdraw or deposit money into three different balances. 
+The user can also generate a receipt in a text file that holds the previous and current balances after transactions.
+logins include (Bank account ID, PIN): (123456, 1234), (234567, 2345), (345678, 3456), (456789, 4567), (567890, 5678)
+
+requirements:
+    Microsoft Visual Studios IDE community 2019 edition.
