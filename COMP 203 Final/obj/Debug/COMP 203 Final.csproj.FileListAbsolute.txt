@@ -10,3 +10,16 @@ E:\C# Projects\COMP 203 Final\COMP 203 Final\obj\Debug\COMP_203_Final.Properties
 E:\C# Projects\COMP 203 Final\COMP 203 Final\obj\Debug\COMP 203 Final.csproj.GenerateResource.Cache
 E:\C# Projects\COMP 203 Final\COMP 203 Final\obj\Debug\COMP 203 Final.exe
 E:\C# Projects\COMP 203 Final\COMP 203 Final\obj\Debug\COMP 203 Final.pdb
+C:\programming\COMP 203 Final\COMP 203 Final\bin\Debug\BankDataBase.mdf
+C:\programming\COMP 203 Final\COMP 203 Final\bin\Debug\BankDataBase_log.ldf
+C:\programming\COMP 203 Final\COMP 203 Final\bin\Debug\COMP 203 Final.exe.config
+C:\programming\COMP 203 Final\COMP 203 Final\bin\Debug\COMP 203 Final.exe
+C:\programming\COMP 203 Final\COMP 203 Final\bin\Debug\COMP 203 Final.pdb
+C:\programming\COMP 203 Final\COMP 203 Final\obj\Debug\COMP 203 Final.csprojAssemblyReference.cache
+C:\programming\COMP 203 Final\COMP 203 Final\obj\Debug\COMP_203_Final.DetailForm.resources
+C:\programming\COMP 203 Final\COMP 203 Final\obj\Debug\COMP_203_Final.Form1.resources
+C:\programming\COMP 203 Final\COMP 203 Final\obj\Debug\COMP_203_Final.Properties.Resources.resources
+C:\programming\COMP 203 Final\COMP 203 Final\obj\Debug\COMP 203 Final.csproj.GenerateResource.cache
+C:\programming\COMP 203 Final\COMP 203 Final\obj\Debug\COMP 203 Final.csproj.CoreCompileInputs.cache
+C:\programming\COMP 203 Final\COMP 203 Final\obj\Debug\COMP 203 Final.exe
+C:\programming\COMP 203 Final\COMP 203 Final\obj\Debug\COMP 203 Final.pdb
